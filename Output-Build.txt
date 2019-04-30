@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: RestaurantOrder, Configuration: Debug Any CPU ------
+1>C:\Users\candr\source\repos\RestaurantFP\RestaurantOrder\Program.cs(22,24,22,28): warning CS0168: The variable 'temp' is declared but never used
+1>  RestaurantOrder -> C:\Users\candr\source\repos\RestaurantFP\RestaurantOrder\bin\Debug\RestaurantOrder.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
